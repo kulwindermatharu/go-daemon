@@ -1,6 +1,6 @@
 # GO Daemon
 
-# Replace this section with your main function script 
+### Replace this section with your main function script 
 
 ```
 
@@ -9,7 +9,7 @@
 		//---------
     
   ```
-  # Serve
+  ### Serve
   
   ```
     go mod init
@@ -19,19 +19,19 @@
     go build main.go
   ```
   
-  #  start
+  ###  start
   
   ```
     ./main start
   ```
   
-  # stop
+  ### stop
   
   ```
     ./main stop
   ```
   
-  # run as simple test
+  ### run as simple test
   
   ```
     ./main main
